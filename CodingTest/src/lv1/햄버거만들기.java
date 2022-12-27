@@ -1,6 +1,5 @@
 package lv1;
 
-import java.lang.reflect.Array;
 import java.util.Stack;
 
 public class 햄버거만들기 {
